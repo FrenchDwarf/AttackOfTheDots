@@ -42,3 +42,7 @@ This repository contains a `Playable Build - PC` folder, feel free to clone the 
 
  - All the assets were made by myself in Paint & Paint.net so I apologise in advance for the pixelated horrors.
  - The explosion sprite is a royalty-free sprite I found.
+
+### FrenchDwarf ###
+
+For all things FrenchDwarf, check out [FrenchDwarf.com](http://www.FrenchDwarf.com)
